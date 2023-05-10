@@ -1,0 +1,4 @@
+# Time-Series-Classifcation
+The project's goal is to extract time series features for human activity monitoring using accelerometer data for 15 subjects engaged in walking, running, climbing up, and climbing down. The dataset provides time series data for each subject's activity, accessible by clicking on their name.
+
+Applied natural visibility graph (NVG) and horizontal visibility graph (HVG) to the accelerometer data for each activity of all 15 subjects. Average degree, network diameter, and average path length are then computed for a sample size of 1024 data points for each time series, from 1000 to 2024. The results are tabulated, and scatter plots are generated for each accelerometer signal and each method (HVH and NVG) color-coded by walking and running or climbing up and climbing down.
